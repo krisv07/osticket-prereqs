@@ -233,7 +233,7 @@ This will make osTicket able to fully control our new configuration files.
   
 10. Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
-Default email (receives email from customers)
+You can use fake emails
 
 From the “osTicket-Installation-Files” folder, install HeidiSQL.
 Open Heidi SQL
@@ -250,7 +250,23 @@ Click “Install Now!”
 <br />  
 <b />
 
-.
+![image](https://github.com/user-attachments/assets/e6f89ef5-36f8-4676-a4f8-85f375a958af)
+![image](https://github.com/user-attachments/assets/0dac9fb5-ae28-4900-8681-408e367f6e13)
+![image](https://github.com/user-attachments/assets/5bab4a71-0412-4368-95c3-1c0391133b63)
+![image](https://github.com/user-attachments/assets/f98b4e5d-7707-49af-af15-2781c99261fe)
+![image](https://github.com/user-attachments/assets/8c6b3bd4-2846-4935-b69b-ee93f8344bd8)
+![image](https://github.com/user-attachments/assets/b5a3f6db-d669-4fa7-ab38-355af836604e)
+
+</p>
+<br />
+
+<p>
+
+  
+11. Finish! Hopefully, osTicket is installed correctly with no errors!
+  
+<br />  
+<b />
 
 </p>
 <br />
